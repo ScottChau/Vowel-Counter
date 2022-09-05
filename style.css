@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+}
+
+#input {
+  display: block;
+  width: 500px;
+  margin: 0 auto;
+}
+
+#check {
+  display: block;
+  width: 300px;
+  margin: 30px auto;
+}
